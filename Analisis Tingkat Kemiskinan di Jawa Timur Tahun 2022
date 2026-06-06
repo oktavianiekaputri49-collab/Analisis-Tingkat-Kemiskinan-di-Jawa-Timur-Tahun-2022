@@ -1,0 +1,88 @@
+📊 Analisis Tingkat Kemiskinan di Jawa Timur Tahun 2022
+Deskripsi Project:
+Project ini membahas analisis tingkat kemiskinan kabupaten/kota di Jawa Timur tahun 2022 menggunakan data dari Badan Pusat Statistik (BPS). Analisis dilakukan untuk memahami distribusi kemiskinan antar wilayah, membandingkan tingkat kemiskinan setiap daerah, serta mengidentifikasi kabupaten/kota dengan tingkat kemiskinan tertinggi dan terendah.
+Visualisasi data disajikan dalam bentuk tabel dan grafik untuk memudahkan interpretasi dan pengambilan kesimpulan.
+
+Tujuan Project:
+Menganalisis tingkat kemiskinan di Jawa Timur tahun 2022.
+Membandingkan persentase kemiskinan antar kabupaten/kota.
+Mengidentifikasi daerah dengan tingkat kemiskinan tertinggi dan terendah.
+Menyajikan hasil analisis dalam bentuk visual yang informatif.
+Melatih kemampuan analisis dan interpretasi data menggunakan Microsoft Excel.
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Timur Tahun 2022
+
+Variabel yang Digunakan
+Kabupaten/Kota
+Persentase Kemiskinan (%)
+Ranking Daerah
+Rata-rata Kemiskinan
+Nilai Tertinggi
+Nilai Terendah
+
+Metode Analisis
+Metode yang digunakan dalam project ini meliputi:
+Statistik Deskriptif
+Pengurutan Data (Sorting)
+Ranking Data
+Perhitungan Rata-rata (Mean)
+Analisis Nilai Tertinggi dan Terendah
+Visualisasi Data Menggunakan Grafik
+Interpretasi Hasil Analisis
+Tahapan Pengolahan Data
+Mengumpulkan data kemiskinan dari BPS Jawa Timur.
+Menginput data ke Microsoft Excel.
+Mengurutkan data berdasarkan persentase kemiskinan.
+Menentukan ranking setiap kabupaten/kota.
+Menghitung rata-rata tingkat kemiskinan.
+Membuat grafik 5 daerah dengan tingkat kemiskinan tertinggi.
+Membuat grafik 5 daerah dengan tingkat kemiskinan terendah.
+Menyusun interpretasi hasil analisis.
+
+Hasil Analisis:
+5 Kabupaten/Kota dengan Tingkat Kemiskinan Tertinggi
+Ranking	Kabupaten/Kota	Persentase (%)
+1	Sampang	21,61
+2	Bangkalan	19,44
+3	Sumenep	18,76
+4	Probolinggo	17,12
+5	Tuban	15,02
+5 Kabupaten/Kota dengan Tingkat Kemiskinan Terendah
+Ranking	Kabupaten/Kota	Persentase (%)
+34	Sidoarjo	5,36
+35	Kota Madiun	4,76
+36	Kota Surabaya	4,72
+37	Kota Malang	4,37
+38	Kota Batu	3,79
+Temuan Utama:
+Kabupaten Sampang memiliki tingkat kemiskinan tertinggi di Jawa Timur tahun 2022 sebesar 21,61%.
+Kabupaten Bangkalan dan Kabupaten Sumenep juga menunjukkan tingkat kemiskinan yang relatif tinggi.
+Kota Batu memiliki tingkat kemiskinan terendah sebesar 3,79%.
+Kota Malang dan Kota Surabaya termasuk daerah dengan tingkat kemiskinan rendah dibandingkan wilayah lainnya.
+Rata-rata tingkat kemiskinan Jawa Timur tahun 2022 sebesar 10,33%.
+Terdapat kesenjangan yang cukup besar antara daerah dengan tingkat kemiskinan tertinggi dan terendah.
+
+Kesimpulan:
+Hasil analisis menunjukkan bahwa tingkat kemiskinan di Jawa Timur tahun 2022 masih bervariasi antar kabupaten/kota. Kabupaten Sampang, Bangkalan, dan Sumenep menjadi daerah dengan tingkat kemiskinan tertinggi, sedangkan Kota Batu, Kota Malang, dan Kota Surabaya memiliki tingkat kemiskinan terendah.
+Temuan ini menunjukkan bahwa pemerataan pembangunan dan peningkatan kesejahteraan masyarakat masih menjadi tantangan penting dalam mengurangi kesenjangan sosial ekonomi antar wilayah di Jawa Timur.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Microsoft Excel
+Data Visualization
+Ranking Analysis
+Interpretasi Data
+Analisis Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
+
+#Data Analysis #Statistics #Microsoft Excel #BPS #Kemiskinan #Jawa Timur #Data Analytics #Portfolio Project
